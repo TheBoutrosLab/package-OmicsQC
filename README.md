@@ -24,26 +24,26 @@ library(OmicsQC)
 Using devtools in R:
 ```R
 library(devtools);
-install_github('https://github.com/uclahs-cds/package-OmicsQC');
+install_github('https://github.com/theboutroslab/package-OmicsQC');
 ```
 
 From source:
 ```shell
-git clone https://github.com/uclahs-cds/package-OmicsQC.git
+git clone https://github.com/theboutroslab/package-OmicsQC.git
 R CMD INSTALL package-OmicsQC
 ```
 
 ## Resources
-* For a tutorial on how to use OmicsQC, check out our [Vignette](https://uclahs-cds.github.io/package-OmicsQC/articles/Intro_to_omicsQC.html)!
-* For detailed information about available functions, check out our [Function Reference](https://uclahs-cds.github.io/package-OmicsQC/reference/index.html)!
-* For updates, check out our [Changelog](https://uclahs-cds.github.io/package-OmicsQC/news/index.html)!
+* For a tutorial on how to use OmicsQC, check out our [Vignette](https://theboutroslab.github.io/package-OmicsQC/articles/Intro_to_omicsQC.html)!
+* For detailed information about available functions, check out our [Function Reference](https://theboutroslab.github.io/package-OmicsQC/reference/index.html)!
+* For updates, check out our [Changelog](https://theboutroslab.github.io/package-OmicsQC/news/index.html)!
 
 ## Getting help
 
 Looking for guidance or support with OmicsQC? Look no further.
 
-* Check out our [Discussions](https://github.com/uclahs-cds/package-OmicsQC/discussions) page!
-* Submit bugs :bug:, suggest new features :cherry_blossom: or see current work :mechanical_arm: at our [Issues](https://github.com/uclahs-cds/package-OmicsQC/issues) page.
+* Check out our [Discussions](https://github.com/theboutroslab/package-OmicsQC/discussions) page!
+* Submit bugs :bug:, suggest new features :cherry_blossom: or see current work :mechanical_arm: at our [Issues](https://github.com/theboutroslab/package-OmicsQC/issues) page.
 
 ## Citation information
 
