@@ -9,6 +9,12 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [Unreleased]
 
+## [1.1.1] - 2026-01-22
+
+### Changed
+- Updated Paul Boutros' email to sbpdiscovery.org domain
+- Changed organization from uclahs-cds to theboutroslab
+
 ## [1.1.0] - 2024-02-27
 
 ### Changed
